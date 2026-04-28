@@ -1,0 +1,42 @@
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.exe
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.deps.json
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.runtimeconfig.json
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.dll
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.pdb
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.AssemblyInfoInputs.cache
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.AssemblyInfo.cs
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.dll
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\refint\PetAdoption.dll
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.pdb
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.genruntimeconfig.cache
+C:\Users\johna\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\ref\PetAdoption.dll
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.exe
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.deps.json
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.runtimeconfig.json
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.dll
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.pdb
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.AssemblyInfoInputs.cache
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.AssemblyInfo.cs
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.csproj.CoreCompileInputs.cache
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.dll
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\refint\PetAdoption.dll
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.pdb
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.genruntimeconfig.cache
+C:\Users\Eng Gerges\source\repos\PetAdoption\PetAdoption\obj\Debug\net8.0\ref\PetAdoption.dll
+D:\vs c#\New folder\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.exe
+D:\vs c#\New folder\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.deps.json
+D:\vs c#\New folder\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.runtimeconfig.json
+D:\vs c#\New folder\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.dll
+D:\vs c#\New folder\PetAdoption\PetAdoption\bin\Debug\net8.0\PetAdoption.pdb
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.AssemblyInfoInputs.cache
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.AssemblyInfo.cs
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.csproj.CoreCompileInputs.cache
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.dll
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\refint\PetAdoption.dll
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.pdb
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\PetAdoption.genruntimeconfig.cache
+D:\vs c#\New folder\PetAdoption\PetAdoption\obj\Debug\net8.0\ref\PetAdoption.dll
